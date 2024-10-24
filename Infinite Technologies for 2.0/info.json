@@ -4,8 +4,8 @@
   "title": "InfiniteTech FIXED",
   "author": "KyriadosX",
   "contact": "https://github.com/KyriadosX/Factorio-Modding/tree/main/Infinite%20Technologies",
-  "homepage": "",
-  "description": "Initially uploaded by Optera, now (partially) fixed for 2.0 Space Age. Adds infinite technologies for bot cargo capacity, player logistics slots, and inserter capacity.\nNormalizes infinite technologies to 60s and exponential 2^N formula; either can be disabled in startup settings. \nBot battery infinite tech was removed due to user coding inadequacy. Please refer to Github link for information.",
+  "homepage": "https://mods.factorio.com/mod/InfiniteTech_FIXED",
+  "description": "Initially uploaded by Optera, now (partially) fixed for 2.0 Space Age. Adds infinite technologies for bot cargo capacity, player logistics slots, and inserter capacity.\nNormalizes infinite technologies to 60s and exponential 2^N formula; either can be disabled in startup settings. \nBot battery infinite tech was removed due to user coding inadequacy",
   "factorio_version": "2.0",
   "dependencies": ["base"]
 }
